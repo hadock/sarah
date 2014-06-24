@@ -19,8 +19,8 @@ Lo que hace lumevox es proveer un servicio de pago para generar voces naturales 
 
 
 <strong>lhpins.pyc -></strong> Libreria escrita en python que permite encender/apagar y obtener el estado los Pins de la PCDuino
-        Ejemplo Ecendido/Apagado: python lhpins.pyc --action set --pin 10 --status on|off
-        Ejemplo Lectura: python lhpins.pyc --action get --pin 10
+        <strong>Ejemplo Ecendido/Apagado:</strong> python lhpins.pyc --action set --pin 10 --status on|off <br/>
+        <strong>Ejemplo Lectura:</strong> python lhpins.pyc --action get --pin 10
 
 
 
