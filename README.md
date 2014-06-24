@@ -2,7 +2,7 @@ sarah
 =====
 Inteligencia artificial y domótica
 
-ES PRECISO DESTACAR QUE NO DEBEN ABUSAR DEL SCRIPT "MOUTH" DEBIDO A QUE YO MISMO HAGO USO DE UN SERVICIO QUE NO ES MIO
+ES PRECISO DESTACAR QUE NO DEBEN ABUSAR DEL SCRIPT "MOUTH" DEBIDO A QUE YO MISMO HAGO USO DE UN SERVICIO QUE NO ES MIO.<br>
 NO PROVOCAR QUE http://www.lumenvox.com/ SE ENTERE QUE ESTE SCRIPT USA SUS SERVIDORES DADO QUE ME FUE DIFICIL DESCUBRIRLOS.
 
 Lo que hace lumevox es proveer un servicio de pago para generar voces naturales a compañias que tienen callcenters y contestadores automatizados.
